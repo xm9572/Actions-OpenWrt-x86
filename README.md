@@ -1,5 +1,3 @@
-**English** | 中文
-
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
@@ -17,15 +15,6 @@ Main features:
    
    b. Local and cloud firmware version numbers can be viewed.
 
-## Thanks
+Fork from https://github.com/Lenyu2020/Actions-OpenWrt-x86
 
-- P3TERX
-- smallprogram
-- coolsnowwolf
-- xiaorouji
-- vernesong
-- ...
-
-## Example Image
-
-![image](https://user-images.githubusercontent.com/59961153/232178875-3bff84ef-2740-4607-a788-9acc5e8321e5.png)
+Add kmod-usb-net-rndis module to support Internet access for Android devices
