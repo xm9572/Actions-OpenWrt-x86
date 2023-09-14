@@ -1,8 +1,10 @@
-# Actions-OpenWrt
+# Actions-OpenWrt-x86
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/xm9572/Actions-OpenWrt-x86.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/xm9572/Actions-OpenWrt-x86.svg?style=flat-square&label=Forks&logo=github)
+
+注：此固件只适用 x86 设备
 
 管理员登录：
 192.168.1.2  root / password
