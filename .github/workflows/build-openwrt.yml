@@ -147,6 +147,8 @@ jobs:
         cd openwrt 
         bash  lenyu.sh
 
+    - name: Clear feeds
+      run: cd openwrt && ./scripts/feeds clean
 
     - name: Update feeds
       run: cd openwrt && ./scripts/feeds update -a
