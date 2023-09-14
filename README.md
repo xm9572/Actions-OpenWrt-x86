@@ -1,8 +1,8 @@
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/xm9572/Actions-OpenWrt-x86.svg?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/xm9572/Actions-OpenWrt-x86.svg?style=flat-square&label=Forks&logo=github)
 
 π‹¿Ì‘±µ«¬º£∫
 192.168.1.2  root / password
